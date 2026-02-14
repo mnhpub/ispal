@@ -1,0 +1,42 @@
+# Algorithms
+
+- Backtracking
+    - N-queens
+    - Sudoku
+- Bit Manupulation
+    - Compression
+    - Crypto
+- Dynamic
+    - Knapsack
+    - Longest Common Subsequence
+- Graph
+    - Bellman-Ford
+    - Dijkstra's
+    - Floyd-Warshall
+- Greedy
+    - Huffman
+    - Prims
+- Hashing
+    - Hash Map
+    - Hash Table
+- Matching
+    - Boyer-Moore
+    - Knuth-Morris-Pratt
+    - Rabin-Karp
+- Puzzles
+    - Anagram
+    - Flood-fill
+    - Palindrome
+    - Tower of Hanoi
+    - Traveling Salesperson
+    - Word Break
+- Searching
+    - Binary Search
+- Sorting
+    - Bubble Sort
+    - Heap Sort
+    - Merge Sort
+    - Quick Sort
+- Trees
+    - Breadth-first Search
+    - Depth-first Search

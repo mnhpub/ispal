@@ -1,0 +1,3 @@
+Please demonstrate the ___ software design pattern in JS using an imperative style of programming as well as summarize where this type of pattern is used.
+
+Please demonstrate the ___ software design pattern in JS using a functional programming approach that utilizes map, filter, and reduce where possible and summarize where each function was used and list the pros and cons of each usage of the function used and a compraison to the opposite, either imperative or functional style for the solution.

@@ -1,0 +1,34 @@
+characters = [
+    {
+        "name": "Bugs Bunny",
+        "species": "Rabbit",
+        "chaos": 4,
+        "catchphrase": "Eh, what's up, doc?",
+        "friends": ["Daffy Duck", "Yakko"],
+        "episodes": [
+            {"title": "Rabbit Season", "likes": 120},
+            {"title": "Hare Tonic", "likes": 95},
+        ],
+    },
+    {
+        "name": "Daffy Duck",
+        "species": "Duck",
+        "chaos": 7,
+        "catchphrase": "You're despicable!",
+        "friends": ["Bugs Bunny"],
+        "episodes": [
+            {"title": "Duck Amuck", "likes": 140},
+        ],
+    },
+    {
+        "name": "Yakko",
+        "species": "Animaniac",
+        "chaos": 10,
+        "catchphrase": "Helloooo, Nurse!",
+        "friends": ["Wakko", "Dot", "Bugs Bunny"],
+        "episodes": [
+            {"title": "De-Zanitized", "likes": 80},
+            {"title": "Space Probed", "likes": 70},
+        ],
+    },
+]

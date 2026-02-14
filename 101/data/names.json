@@ -1,0 +1,22 @@
+[
+  {
+    "name": "bob",
+    "lat": 10,
+    "long": 20,
+    "data": [
+        {
+            "data_id": 0
+        }
+    ]
+  },
+  {
+    "name": "alice",
+    "lat": 11,
+    "long": 21,
+    "data": [
+        {
+            "data_id": 1
+        }
+    ]
+  }
+]
